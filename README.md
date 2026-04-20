@@ -1,28 +1,25 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:1f6feb&height=220&section=header&text=XIILumina&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Creator%20%7C%20Builder&descSize=20&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:EC4E20,100:FF6B4A&height=220&section=header&text=XIILumina&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Curious%20Mind%20%7C%20Learning%20%7C%20Exploring&descSize=20&descAlignY=55" width="100%"/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=500&lines=Building+things+that+matter+%F0%9F%94%A5;Laravel+%7C+Python+%7C+Game+Dev;Always+learning%2C+always+shipping" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=EC4E20&center=true&vCenter=true&random=false&width=500&lines=Learning+by+doing+%F0%9F%94%A5;Exploring+code+one+step+at+a+time;Breaking+stuff+and+figuring+it+out" alt="Typing SVG" /></a>
 
 </div>
 
 ---
 
-### �� About Me
+### 🧠 About Me
 
 ```yaml
 name: XIILumina
-location: Planet Earth 🌍
-current_focus: "OS development, Web Apps, Game Dev"
-learning: ["Laravel", "Filament", "Python", "Unity"]
-fun_fact: "I build car games AND car shops 🏎️"
+status: "Learning & exploring 🌱"
+interests: ["Web Apps", "Python", "Laravel", "Tinkering with things"]
+motto: "Not a dev yet — but getting there"
 ```
 
 ---
 
-### ⚡ Tech Stack
+### 🧰 Tools I'm Learning
 
 <div align="center">
 
@@ -30,21 +27,17 @@ fun_fact: "I build car games AND car shops 🏎️"
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-### 🔥 Featured Projects
+### 📂 Projects
 
 | Project | Description |
 |---------|-------------|
-| 🖥️ [**OS-work**](https://github.com/XIILumina/OS-work) | Building my own OS — stories and experiments |
 | 🏗️ [**BuildingEditor**](https://github.com/XIILumina/BuildingEditor) | Building editor tool |
-| 🏎️ [**Cargame**](https://github.com/XIILumina/Cargame) | Car game project |
 | 🛒 [**Car-Shop**](https://github.com/XIILumina/Car-Shop) | Car shop application |
 | 📊 [**LaravelFilamentLearning**](https://github.com/XIILumina/LaravelFilamentLearning) | Exploring Laravel + Filament |
 | 💰 [**expenses_controller**](https://github.com/XIILumina/expenses_controller) | Expense tracking app |
@@ -56,29 +49,29 @@ fun_fact: "I build car games AND car shops 🏎️"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=XIILumina&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=1f6feb&text_color=c9d1d9" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XIILumina&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=XIILumina&show_icons=true&hide_border=true&bg_color=0d1117&title_color=EC4E20&icon_color=FF6B4A&text_color=c9d1d9&ring_color=EC4E20" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XIILumina&layout=compact&hide_border=true&bg_color=0d1117&title_color=EC4E20&text_color=c9d1d9" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=XIILumina&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=1f6feb&currStreakLabel=6e40c9" width="700"/>
-
-</div>
-
----
-
-### 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=XIILumina&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6e40c9&line=1f6feb&point=ffffff" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=XIILumina&hide_border=true&background=0d1117&ring=EC4E20&fire=FF6B4A&currStreakLabel=EC4E20&sideLabels=FF6B4A&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" width="700"/>
 
 </div>
 
 ---
 
+### 📈 Activity
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:1f6feb&height=120&section=footer" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=XIILumina&hide_border=true&bg_color=0d1117&color=EC4E20&line=FF6B4A&point=ffffff" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=XIILumina&style=for-the-badge&color=6e40c9" alt="Profile Views"/>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:EC4E20,100:FF6B4A&height=120&section=footer" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=XIILumina&style=for-the-badge&color=EC4E20" alt="Profile Views"/>
 
 </div>
